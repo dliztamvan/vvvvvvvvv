@@ -1,0 +1,8 @@
+name = "vvvvvvvvv"
+main = "index.js"
+compatibility_date = "2026-09-30"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "velora"
+database_id = "47ab0afe-c23c-4b25-83c0-b583768e1ea0"

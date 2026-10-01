@@ -1,0 +1,7 @@
+{
+  "name": "vvvvvvvvv",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev":"wrangler dev","deploy":"wrangler deploy","db:init":"wrangler d1 execute velora --remote --file=schema.sql"},
+  "devDependencies": {"wrangler":"^4.36.0"}
+}
